@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+img{
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+form{
+    padding: 20px;
+    margin: 80px 450px 80px 450px;
+    border: solid 0.1px rgb(255, 253, 253);
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px  rgb(232, 232, 232),
+     0px 0px 8px  rgb(216, 213, 213),
+    0px 0px 12px  rgb(220, 217, 217);
+    
+
+}
+
+input{
+    height: 38px;
+    width: 325px;
+    border: solid 0.5px rgb(45, 45, 45);
+    border-radius: 3px;
+    
+}
+::placeholder{
+    font-size: large;
+    padding: 6px;
+}
+.forget{
+    font-weight: lighter;
+    text-decoration: none;
+    color: #0072b1 ;
+}
+.forget:hover{
+    color: #05527b;
+}
+
+.sign{
+    height: 50px;
+    width: 99%;
+    border-radius: 25px;
+    border: none;
+    background-color: #0350c3;
+    font-size: large;
+    color: white;
+}
+h3{
+    font-size: xx-large;
+    font-weight: 300;
+
+}
+
+p{
+    padding-top: 4px;
+    font-size: small;
+}
+
+div{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #c9c7c7; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+} 
+span{
+    background:#fff; 
+    padding:0 10px; 
+    font-size: small;
+    color: rgb(61, 59, 59);
+   
+}
+
+.sign:hover{
+    background-color: #03409b;
+}
+
+.foot{
+    height: 30px;
+    width: 99%;
+    border-radius: 25px;
+    background-color: white;
+    border: solid black 0.5px;
+    font-size: 16px;
+
+}
+.footer{
+    text-align: center;
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+
+.foot:hover{
+    background-color: #f5f5f5;
+}
+
+.last {
+
+    text-align: center;
+    font-size: 13px;
+    text-decoration: none;
+
+    
+}
+.last a{
+    text-decoration: none;
+    color: rgb(77, 76, 76);
+}
+
